@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-08T20:15:34 IST" name="Default suite" finished-at="2024-07-08T20:15:46 IST" duration-ms="11929">
+    <groups>
+    </groups>
+    <test started-at="2024-07-08T20:15:34 IST" name="Default test" finished-at="2024-07-08T20:15:46 IST" duration-ms="11929">
+      <class name="test.logintest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.logintest@1151e434]" started-at="2024-07-08T20:15:34 IST" name="setup" finished-at="2024-07-08T20:15:41 IST" duration-ms="7242" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="negativeScenario()[pri:1, instance:test.logintest@1151e434]" started-at="2024-07-08T20:15:41 IST" name="negativeScenario" finished-at="2024-07-08T20:15:42 IST" duration-ms="955" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- negativeScenario -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.logintest@1151e434]" started-at="2024-07-08T20:15:42 IST" name="setup" finished-at="2024-07-08T20:15:44 IST" duration-ms="2095" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="postiveScenario()[pri:2, instance:test.logintest@1151e434]" started-at="2024-07-08T20:15:44 IST" name="postiveScenario" finished-at="2024-07-08T20:15:46 IST" duration-ms="1547" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postiveScenario -->
+      </class> <!-- test.logintest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

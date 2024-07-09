@@ -1,0 +1,6 @@
+1.First I created the Maven project and done with all dependicies in TestNG. 
+2.Created the base pacage in main java.
+3.Created the test cases in logintest in test java.
+4.Created the web elements in loginpage.
+5.In Logintest class written one positive and negative test case
+
